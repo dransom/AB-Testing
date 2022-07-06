@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore A/B Testing data files
+countries.csv
+ab_data.csv
